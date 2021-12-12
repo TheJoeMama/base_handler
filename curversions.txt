@@ -6,7 +6,7 @@
   "Shield Generator": "2.1",
   "Ai-System": "1",
   "Housepoints": "1.2",
-  "Bomb-System": "1.4",
+  "Bomb-System": "1.5",
   "Space-System": "1.4",
   "EMP-Grenade": "1"
 }
