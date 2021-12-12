@@ -1,1 +1,13 @@
-print("test")
+{
+  "stretcher": "1.33",
+  "map-event": "2.3",
+  "door": "1.1",
+  "datapads": "2.1",
+  "shield": "2.1",
+  "ai": "1",
+  "house": "1.2",
+  "bomb": "1.4",
+  "space": "1.4",
+  "bfhud": "1.4",
+  "emp": "1",
+}
