@@ -1,13 +1,12 @@
 {
-  "stretcher": "1.33",
-  "map-event": "2.3",
-  "door": "1.1",
-  "datapads": "2.1",
-  "shield": "2.1",
-  "ai": "1",
-  "house": "1.2",
-  "bomb": "1.4",
-  "space": "1.4",
-  "bfhud": "1.4",
-  "emp": "1"
+  "Medical-Stretcher": "1.33",
+  "Map-Event-System": "2.3",
+  "Door-System": "1.1",
+  "Datapads": "2.1",
+  "Shield Generator": "2.1",
+  "Ai-System": "1",
+  "Housepoints": "1.2",
+  "Bomb-System": "1.4",
+  "Space-System": "1.4",
+  "EMP-Grenade": "1"
 }
