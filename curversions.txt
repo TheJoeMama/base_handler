@@ -1,7 +1,5 @@
 {
-  "Medical-Stretcher": "1.33",
   "Map-Event-System": "2.4",
-  "Door-System": "1.1",
   "Datapads": "2.1",
   "Shield Generator": "2.1",
   "Ai-System": "1",
