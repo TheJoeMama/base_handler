@@ -1,11 +1,11 @@
 {
   "Map-Event-System": "2.4",
   "Datapads": "2.1",
-  "Shield Generator": "2.2",
+  "Shield Generator": "2.21",
   "Ai-System": "1",
   "Housepoints": "1.2",
   "Bomb-System": "1.5",
   "Space-System": "1.5",
   "EMP-Grenade": "1",
-  "Shield DLC": "1"
+  "Shield DLC": "1.1"
 }
