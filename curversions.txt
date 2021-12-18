@@ -6,5 +6,6 @@
   "Housepoints": "1.2",
   "Bomb-System": "1.5",
   "Space-System": "1.5",
-  "EMP-Grenade": "1"
+  "EMP-Grenade": "1",
+  "Shield DLC": "1"
 }
