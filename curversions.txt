@@ -4,7 +4,7 @@
   "Shield Generator": "2.21",
   "Ai-System": "1",
   "Housepoints": "1.2",
-  "Bomb-System": "1.6",
+  "Bomb-System": "1.7",
   "Space-System": "1.5",
   "EMP-Grenade": "1",
   "Shield DLC": "1.1"
