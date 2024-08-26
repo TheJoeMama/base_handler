@@ -1,7 +1,7 @@
 {
   "Map-Event-System": "2.4",
   "Datapads": "2.5",
-  "Shield Generator": "3.0.4",
+  "Shield Generator": "3.0.5",
   "Ai-System": "1",
   "Housepoints": "1.2",
   "Bomb-System": "1.9.1",
